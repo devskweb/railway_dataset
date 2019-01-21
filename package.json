@@ -1,0 +1,11 @@
+{
+  "name": "movieanalysis",
+  "version": "1.0.0",
+  "description": "details of every movie and analysis of its characters and rating ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "santosh kumar",
+  "license": "ISC"
+}
