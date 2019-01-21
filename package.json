@@ -6,7 +6,7 @@
   "homepage": "https://santoshkumar1561997.github.io/railway_dataset",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d railway_dataset"
+    "deploy": "gh-pages -d dist"
   },
   "author": "santosh kumar",
   "license": "ISC",
