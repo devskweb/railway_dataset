@@ -2,15 +2,11 @@ const app = document.getElementById("root");
 
 const logo = document.createElement("img");
 logo.src = "./img/logo.png";
-const head = document.createElement("h1");
-h1.textContent = "TRAIN LIST WITH ORIGIN AND ENDS";
 
 const container = document.createElement("div");
 container.setAttribute("class", "container");
 
 app.appendChild(logo);
-app.appendChild(head);
-
 app.appendChild(container);
 /*fetch("data.json")
   .then(res => res.json())
