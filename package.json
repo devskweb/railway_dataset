@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "details of every movie and analysis of its characters and rating ",
   "main": "index.js",
+  "homepage": "https://santoshkumar1561997.github.io/railway_dataset",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d railway_dataset"
   },
   "author": "santosh kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
