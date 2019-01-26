@@ -10,6 +10,20 @@ html {
   color: #666;
   background: #f6f6f6;
 }
+input {
+  font: 3em sans-serif;
+  align-content: center;
+  display: block;
+  margin: 1rem auto;
+  height: 2.2em;
+  max-width: 100%;
+  background-image: url("../img/searchicon.png");
+  background-position: 10px 12px;
+  background-size: 1.5em;
+  background-repeat: no-repeat;
+  border: 1px solid #ddd;
+  padding: 12px 20px 12px 85px;
+}
 
 #root {
   max-width: 1200px;
